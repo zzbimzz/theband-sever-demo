@@ -178,8 +178,7 @@ html {
     /* set up 50% chieu cao */
     padding-top: 50%;
     /* set up ảnh */
-    background: url("/the_band/assets/img/slider/slider1.jpg") top center /
-        cover no-repeat;
+    background: url("../img/slider/slider1.jpg") top center / cover no-repeat;
 }
 /* căn chữ giữa */
 #silder .text-content {
